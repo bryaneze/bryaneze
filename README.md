@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**bryaneze/bryaneze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Intro: 
+  - Final-year Computer Science Student specializing in Artificial Intelligence @ Nanyang Technological University 
+  - Currently intern-ing @ [HackerTrail](https://github.com/hackertrail) as a Software Developer 
+ 
+- 🖥️ Interests: 
+  - Back-end development 
+  - Machine learning 
+  - Exploring new tech stacks 
+  
+- 📫 More about me: 
+  - [Personal tech blog](https://bryaneze.github.io/)
+  - [LinkedIn](https://www.linkedin.com/in/bryan-eng-06a575129/)
