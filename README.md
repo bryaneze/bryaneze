@@ -3,7 +3,6 @@
 
 - 👨‍💻 Intro: 
   - Final-year Computer Science Student specializing in Artificial Intelligence @ Nanyang Technological University 
-  - Currently intern-ing @ [HackerTrail](https://github.com/hackertrail) as a Software Developer 
  
 - 🖥️ Interests: 
   - Back-end development 
