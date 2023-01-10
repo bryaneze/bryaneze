@@ -2,7 +2,8 @@
 
 
 - 👨‍💻 Intro: 
-  - Final-year Computer Science Student specializing in Artificial Intelligence @ Nanyang Technological University 
+  - NTU Computer Science graduate with a specialization in Artificial Intelligence
+  - Open to opportunities!
  
 - 🖥️ Interests: 
   - Back-end development 
@@ -12,3 +13,4 @@
 - 📫 More about me: 
   - [Personal tech blog](https://bryaneze.github.io/)
   - [LinkedIn](https://www.linkedin.com/in/bryan-eng-06a575129/)
+ 
