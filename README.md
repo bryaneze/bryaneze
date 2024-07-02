@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 👨‍💻 Intro: 
+- 👨‍💻 Intro:
+  - Command & Control Systems Engineer @ Maritime and Port Authority of Singapore (MPA) 
   - NTU Computer Science graduate with a specialization in Artificial Intelligence
-  - Open to opportunities!
  
 - 🖥️ Interests: 
   - Back-end development 
